@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "role": "Admin",
+      "status": "Inactive"
+    },
+    {
+      "id": "0abc",
+      "name": "evin joju",
+      "role": "admin",
+      "status": "Active"
+    },
+    {
+      "id": "0e6f",
+      "name": "evin",
+      "role": "user",
+      "status": "Inactive"
+    }
+  ]
+}
